@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 1
+    },
+    "auditFilename": "./logs/fatal-audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1711943409560,
+            "name": "./logs/fatal-2024-03-31.21.50.0.log",
+            "hash": "8f93bce900f87b000036d6f834c29335"
+        }
+    ]
+}

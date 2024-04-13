@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 1
+    },
+    "auditFilename": "./logs/warn-audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1711943409559,
+            "name": "./logs/warn-2024-03-31.21.50.0.log",
+            "hash": "c217fa58052e3a134697fc731412c432"
+        }
+    ]
+}

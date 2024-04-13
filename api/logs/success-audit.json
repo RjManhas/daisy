@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 1
+    },
+    "auditFilename": "./logs/success-audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1711943409557,
+            "name": "./logs/success-2024-03-31.21.50.0.log",
+            "hash": "3f91044c8afbc187e43cd2ef87b11aa8"
+        }
+    ]
+}
